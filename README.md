@@ -16,18 +16,18 @@ O projeto serve como o principal ponto de entrada para novos membros, contendo r
 
 O projeto foi construído utilizando tecnologias modernas de desenvolvimento web:
 
-- **Front-end:** React.js / JavaScript
-- **Estilização:** CSS3 (Modules ou Tailwind)
+- **Front-end:** React.js
+- **Estilização:** CSS3
 - **Ícones:** FontAwesome / React Icons
-- **Deploy:** Vercel / Netlify (Planejado)
+- **Deploy:** Vercel
 
 ## ✨ Funcionalidades (Roadmap)
 
 ### 🚧 Em Construção:
-- [ ] **Landing Page:** Apresentação do servidor com design imersivo.
+- [x] **Landing Page:** Apresentação do servidor com design imersivo.
 - [ ] **Sistema de Whitelist:** Formulário para novos cidadãos se cadastrarem.
 - [ ] **Página de Regras:** Listagem clara das diretrizes da cidade.
-- [ ] **Server Status:** Integração para mostrar jogadores online em tempo real.
+- [x] **Server Status:** Integração para mostrar jogadores online em tempo real.
 
 ### ✅ Concluído / Base:
 - [x] Configuração inicial do ambiente.
